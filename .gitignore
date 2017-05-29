@@ -42,4 +42,4 @@ node_modules
 .env
 event.json
 policyDocument.json
-*.zip
+# *.zip
